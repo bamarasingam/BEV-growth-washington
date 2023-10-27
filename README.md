@@ -9,4 +9,5 @@
 - Draw multiple datasets and join them together
 - Models will be continious; possible to do classification depending on target metric, tbd
 - Streamlit App for map of given state which shows locations of charging stations, and if possible give estimations for a person given their battery and travel plan
-- 
+- Projections of charging stations growth
+- Project best time to get an electric car given access to ammenities needed and price
