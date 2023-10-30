@@ -14,3 +14,6 @@
 - Project best time to get an electric car given access to ammenities needed and price
 
 - https://www.cato.org/blog/blaming-us-passenger-vehicles-climate-change-ignorant-lucrative-1
+
+- Tables
+    - https://www.spglobal.com/marketintelligence/en/mi/products/us-monthly-gdp-index.html
