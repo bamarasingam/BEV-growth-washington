@@ -12,3 +12,5 @@
 - Streamlit App for map of given state which shows locations of charging stations, and if possible give estimations for a person given their battery and travel plan
 - Projections of charging stations growth
 - Project best time to get an electric car given access to ammenities needed and price
+
+- https://www.cato.org/blog/blaming-us-passenger-vehicles-climate-change-ignorant-lucrative-1
