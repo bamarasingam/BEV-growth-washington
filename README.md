@@ -17,3 +17,4 @@
 
 - Tables
     - https://www.spglobal.com/marketintelligence/en/mi/products/us-monthly-gdp-index.html
+    - https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/
