@@ -2,7 +2,8 @@
 
 - Predict electric vehicle growth within automotive market
     - Economic indicators
-    - Vehicle Specs   
+    - Vehicle Specs
+    - By predicting number of EV's in market, possible to estimate impact on reducing pollution
 - Looking at charging station locations and car specs. to give recommendations on scheduling charges
 - Temperature (depending where you live) in relation too battery health
 - Planned to look at Washington state, may have to look at others as well
