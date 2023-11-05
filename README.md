@@ -1,5 +1,21 @@
 # capstone - electric vehicles
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Predict electric vehicle growth within automotive market
     - Economic indicators
     - Vehicle Specs
