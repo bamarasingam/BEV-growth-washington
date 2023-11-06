@@ -9,9 +9,10 @@ Electric cars are seen as a promissing alternative to traditional automobiles du
 Using machine learning techniques, this repo aims to project the growth of said EV's within the state of Washington. The main analysis used will be multivariate time series analysis, using the VAR (Vector Auto Regression) model. Do note that only fully electric vehicles (BEVs) are considred within these projections; hybrids have been ommitted from total counts (which they include in the electric vehicle count within these datasets). The projections are month on month, and will be limited to the next 3 years. 
 
 
-### Legend
+### Sources
+#### Dataset Links
 
-### Data Dictionary
+#### Libraries Used
 
 ### Conclusion
 
