@@ -11,30 +11,27 @@ Using machine learning techniques, this repo aims to project the growth of said 
 
 ### Sources
 #### Dataset Links
+All dataset links can be found within notebooks in the cell where they are refrenced/pulled
+- https://catalog.data.gov/dataset/electric-vehicle-population-size-history
+- https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/
+- https://fred.stlouisfed.org/series/PPIACO
+- https://fred.stlouisfed.org/series/TERMCBAUTO48NS
+- https://fred.stlouisfed.org/series/RIFLPBCIANM60NM
+- https://www.multpl.com/s-p-500-historical-prices/table/by-month
+- https://catalog.data.gov/dataset/electric-vehicle-population-size-history-by-county
+- https://afdc.energy.gov/stations/#/analyze
+- https://catalog.data.gov/dataset/electric-vehicle-population-data
+- https://geo.wa.gov/datasets/wadnr::wa-county-boundaries/geoservice
 
 #### Libraries Used
+- Pandas
+- Numpy
+- Matplotlib
+- Statsmodels
+- Sklearn
+- Streamlit
+- Geopandas
+- Folium
+- Streamlit_folium
 
 ### Conclusion
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- https://www.cato.org/blog/blaming-us-passenger-vehicles-climate-change-ignorant-lucrative-1
-
-- Tables
-    - https://www.spglobal.com/marketintelligence/en/mi/products/us-monthly-gdp-index.html
-    - https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/
