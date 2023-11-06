@@ -10,7 +10,7 @@ Using machine learning techniques, this repo aims to project the growth of said 
 
 
 ### Sources
-Additional sources for various tips/tricks used in notebooks are refrenced within the cell which they were used for.
+Additional sources for various tips/tricks used in notebooks are refrenced within the cell which they were used.
 #### Dataset Links
 All dataset links can be found within notebooks in the cell where they are refrenced/pulled
 - https://catalog.data.gov/dataset/electric-vehicle-population-size-history
