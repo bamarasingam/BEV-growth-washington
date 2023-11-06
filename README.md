@@ -36,3 +36,8 @@ All dataset links can be found within notebooks in the cell where they are refre
 - Streamlit_folium
 
 ### Conclusion
+Based on our models, we can conclue that we can continue to see a positive growth of BEV's within the coming years. Our best performing model based on minimizing MSE was our ARIMA model, with parameters 9, 2, 0 for p, d, and q respectively. The MSE for this model was 357196.01795728324. Our multivariate modles which utilized VAR did have some trouble in making accurate predictions on the test set; although included in the notebook, this model will be needed to tuned more. The model however did project that growth of BEV's within the state continue too be positive, and this fact between both models is why we concluded that there will continue to be positive growth for BEVs within the state.
+
+One thing to note is the model only does go back to 2017; adverse economic times and times of negative growth for BEV's are not found within this dataset. Perhaps for future iterations, looking at how cars in general fared during economic downtimes would have been beneficial in considering when making out this model. 
+
+All in all, gas emissions and the pollutants which traditional vehicles produce are a net negative to our environment and air quality. Society has begun to shift towards more renewable and sustainable means of energy in all facets of life. Washington itself has started to implement various laws which benefit citizens for taking advantage of this shift towards a greenera and more renewable future. The growth of BEV's within the state has only just begun, and will continue to grow as the years go on. 
