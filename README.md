@@ -2,7 +2,7 @@
 
 ## Executive Summary
 ### Problem Statement
-Our world has come to a crossroads when it comes to transportation, specifically with automobiles. For over a century our main form of fuel for these vehicles has been gasoline/diesel. Although effective, these forms of fuel have many environmental drawbacks which have been well documented across various sources. Due to pressure from various entities (goverment, NGO's, etc.), stricter emission regulations and increased consumer focus on air quality, there has been a push towards sustainable transportation. 
+Our world has come to a crossroads when it comes to transportation, specifically with automobiles. For over a century our main form of fuel for these vehicles has been gasoline/diesel. Although effective, these forms of fuel have many environmental drawbacks which have been well documented across various sources. Due too pressure from various entities (goverment, NGO's, etc.), stricter emission regulations and increased consumer focus on air quality, there has been a push towards sustainable transportation. 
 
 Electric cars are seen as a promissing alternative to traditional automobiles due to their low environmental impact, and are projected to grow significantly within the coming years. The state of Washington is seen as one of the states within America at the forefront of this movement, with various policies and plans that are currently in motion to help bring the state to a greener future.
 
