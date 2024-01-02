@@ -26,7 +26,7 @@ All dataset links can be found within notebooks in the cell where they are refre
 
 #### Libraries Used
 - Pandas
-- Numpy
+- NumPy
 - Matplotlib
 - Statsmodels
 - Sklearn
